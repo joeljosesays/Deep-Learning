@@ -89,4 +89,5 @@ Notice how the accuracy improves over time, eventually leveling off. Correspondi
 
 12) Generate predictions
  predicts honey bee or bumble bee
-
+References
+https://towardsdatascience.com/understanding-binary-cross-entropy-log-loss-a-visual-explanation-a3ac6025181a
